@@ -7,9 +7,9 @@
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [BengiVega/miPrimerRepo](https://github.com/BengiVega/miPrimerRepo)<br>
-2. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)<br>
-3. ⬆️ Pushed undefined commit(s) to [BengiVega/Plantilla-Django](https://github.com/BengiVega/Plantilla-Django)<br>
-4. ⬆️ Pushed undefined commit(s) to [BengiVega/BengiVega.github.io](https://github.com/BengiVega/BengiVega.github.io)<br>
+1. ⬆️ Pushed undefined commit(s) to [BengiVega/BengiVega](https://github.com/BengiVega/BengiVega)<br>
+2. ⬆️ Pushed undefined commit(s) to [BengiVega/miPrimerRepo](https://github.com/BengiVega/miPrimerRepo)<br>
+3. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)<br>
+4. ⬆️ Pushed undefined commit(s) to [BengiVega/Plantilla-Django](https://github.com/BengiVega/Plantilla-Django)<br>
 5. ⬆️ Pushed undefined commit(s) to [BengiVega/BengiVega.github.io](https://github.com/BengiVega/BengiVega.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
